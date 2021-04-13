@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Noahnut/blf.svg?branch=main)](https://travis-ci.com/Noahnut/blf)
+
 # Bloom Filter
 Simple Bloom Filter implement by golang
 Bloom Filter is the simple and space-efficient probabilistic data structure to check the data is exist or not. but Bloom Filter have the false positive rate. false positive rate mean the data is not in the set or storage but Bloom Filter return true.
