@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Noahnut/blf.svg?branch=main)](https://travis-ci.com/Noahnut/blf)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Noahnut/blf/main/LICENSE)  [![Build Status](https://travis-ci.com/Noahnut/blf.svg?branch=main)](https://travis-ci.com/Noahnut/blf)
 
 # Bloom Filter
 Simple Bloom Filter implement by golang
